@@ -11,8 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),

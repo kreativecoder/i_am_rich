@@ -7,4 +7,6 @@ Some of the things I learnt:
 + Setting up environment (Flutter, Android Studio, XCode, Simulators and Android Device)
 + Creating a new Flutter project
 + Running on iOS simulator and real android device
-+ Scafolding a material app, displaying text and learning about Widget tree
++ Scaffolding a material app, displaying text and learning about Widget tree
++ Displaying Image using NetworkImage, AssetImage
++ The pubspec file for configuring dependencies and assets location
