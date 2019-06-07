@@ -17,4 +17,4 @@ Highlights
 Screenshots
 -----
 
-![iPhone](screenshots/iphone.jpg)
+![iphone](screenshots/iphone.png)
