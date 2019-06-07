@@ -16,5 +16,4 @@ Highlights
 
 Screenshots
 -----
-
-![iphone](screenshots/iphone.png)
+<img src='screenshots/iphone.png' width='350'>
