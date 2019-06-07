@@ -2,7 +2,8 @@
 
 My first flutter application from the training at [appbrewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 
-Some of the things I learnt:
+Highlights
+----
 
 + Setting up environment (Flutter, Android Studio, XCode, Simulators and Android Device)
 + Creating a new Flutter project
@@ -11,3 +12,9 @@ Some of the things I learnt:
 + Displaying Image using NetworkImage, AssetImage
 + The pubspec file for configuring dependencies and assets location
 + App Icons and how to update for both Android and iOS
+
+
+Screenshots
+-----
+
+![iPhone](screenshots/iphone.jpg)
