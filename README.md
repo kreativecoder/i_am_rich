@@ -16,4 +16,4 @@ Highlights
 
 Screenshots
 -----
-<img src='screenshots/iphone.png' width='350'><img src='screenshots/android.png' width='350'>
+<img src='screenshots/iphone.png' width='350'><img src='screenshots/android.png' width='280'>
